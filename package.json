@@ -1,0 +1,11 @@
+{
+  "name": "Link Sniffer",
+  "version": "0.1.0",
+  "description": "Script that will identify external links and mark them visually.",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.0.0",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
