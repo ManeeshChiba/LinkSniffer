@@ -27,11 +27,11 @@ a {
   -moz-osx-font-smoothing: grayscale;
 }
 ::-moz-selection {
-  background: #214822;
+  background: blue;
   text-shadow: none;
 }
 ::selection {
-  background: #214822;
+  background: blue;
   text-shadow: none;
 }
 hr {
@@ -209,7 +209,7 @@ li ol {
 /* HYPERLINKS */
 a {
   text-decoration: none;
-  color: #214822;
+  color: blue;
 }
 a:hover {
   text-decoration: none;
